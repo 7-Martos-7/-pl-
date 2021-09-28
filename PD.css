@@ -1,0 +1,63 @@
+
+
+  .header {
+    padding: 80px; 
+    text-align: center; 
+    background: #bc1a4b; 
+    color: white; 
+  }
+  
+  .header h1 {
+    font-size: 40px;
+  }
+
+  .Pirmais {
+    border-color: #04AA6D;
+    color: green;
+  }
+  
+  .Pirmais:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+ 
+  .Otrais {
+    border-color: #da5ef3;
+    color: rgb(255, 38, 30);
+  }
+  
+  .Otrais:hover {
+    background: #da5ef3;
+    color: white;
+  }
+  
+ 
+  .Trešais {
+    border-color: #00f7ff;
+    color: rgb(25, 0, 255);
+  }
+  
+  .Trešais:hover {
+    background: #00f7ff;
+    color: white;
+  } 
+
+
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #970c0c}
+  
+  th {
+    background-color: #2304aa;
+    color: rgb(67, 67, 67);
+  }
